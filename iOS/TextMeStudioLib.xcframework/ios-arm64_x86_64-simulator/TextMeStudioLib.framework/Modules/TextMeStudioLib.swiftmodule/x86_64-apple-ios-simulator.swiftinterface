@@ -6,7 +6,7 @@ import Foundation
 import Swift
 @_exported import TextMeStudioLib
 public class TextMeStudio {
+  public var hello: Swift.String
   public init()
-  public var text: Swift.String
   @objc deinit
 }
