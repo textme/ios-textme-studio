@@ -14,10 +14,8 @@ let package = Package(
             targets: ["TextMeStudioLib"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework", from: "6.2.4"),
-        .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.4.1"),
     ],
     targets: [
-        .binaryTarget(name: "TextMeStudioLib", path: "iOS/TextMeStudioLib.framework"),
+        .binaryTarget(name: "TextMeStudioLib", path: "iOS/TextMeStudioLib.xcframework"),
     ]
 )
