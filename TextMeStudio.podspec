@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
-  s.name = 'textme-studio'
+  s.name = 'TextMeStudio'
   s.version = '1.0.0'
-  s.summary = 'textme-studio'
-  s.description = 'textme-studio'
+  s.summary = 'TextMeStudio'
+  s.description = 'TextMeStudio'
   s.homepage = 'http://go-text.me/'
   s.author = {
     'TextMe Team' => 'apple@go-text.me'
