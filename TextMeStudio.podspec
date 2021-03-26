@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
   s.version = '1.0.0'
   s.summary = 'TextMeStudio'
   s.description = 'TextMeStudio'
-  s.homepage = 'http://go-text.me/'
+  s.homepage = 'https://go-text.me/'
   s.author = {
-    'TextMe Team' => 'apple@go-text.me'
+    'TextMe Team' => 'pub@go-text.me'
   }
   s.source = {
     :git => 'https://github.com/textme/ios-textme-studio.git', :tag => s.version.to_s
@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "12.1"
   s.license = 'TextMe Inc.'
   s.requires_arc = true
-
+  s.dependency 'AppsFlyerLib', '6.2.4'
   s.vendored_frameworks = 'iOS/*'
 end
