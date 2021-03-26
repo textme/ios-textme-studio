@@ -74,51 +74,51 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		eTOEXLw5rGoVdpKkbXgpsEuctMc=
+		ol2srn7RfB2+JEdL25y0O6s94CI=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		b2MS9p4VicDd59HRGjr3IOYqjso=
+		iFsu19wX7WA9f/IRquozzvekgqU=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ft/JfUOlLPpBJFg6Uwy4nZQls6E=
+		ixWDcnFioCwdf7Z/GoPMZkyf9Rc=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		eTOEXLw5rGoVdpKkbXgpsEuctMc=
+		ol2srn7RfB2+JEdL25y0O6s94CI=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		b2MS9p4VicDd59HRGjr3IOYqjso=
+		iFsu19wX7WA9f/IRquozzvekgqU=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ft/JfUOlLPpBJFg6Uwy4nZQls6E=
+		ixWDcnFioCwdf7Z/GoPMZkyf9Rc=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fYdk9CCwxHbyZ6JjuQRvrSF4IQs=
+		m3SQyeLv25neiSVBIRWJ8tr/eh4=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Dj/URk26szedKkfw3aD00QGD5SM=
+		v7RzJvNMhyEkcs6+2aJf7+e/nP8=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		c6r/0834x5UMAijiR+8anck/1vs=
+		tWCZFgR/ovLuflF4siD9gSz5Bj4=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		fYdk9CCwxHbyZ6JjuQRvrSF4IQs=
+		m3SQyeLv25neiSVBIRWJ8tr/eh4=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		Dj/URk26szedKkfw3aD00QGD5SM=
+		v7RzJvNMhyEkcs6+2aJf7+e/nP8=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		c6r/0834x5UMAijiR+8anck/1vs=
+		tWCZFgR/ovLuflF4siD9gSz5Bj4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -243,84 +243,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fdpLvH58ZCEksmM5JNjQODPnQS6LjgjbFg3TxESFkZU=
+			A7yX5hQfqF/8N646I8dn+JoCZsTjnNBDu6q91g6BzeY=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OHVKP+BamuRibIhv2W6I4hQ+b8VFHkABgsDzeN0u6I4=
+			vbLIDFrq8GOQEd+3K9IqCU/kQeaeDjugqOKXc1Px5p8=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qz43oV0lsaD9Cxm2FinBKcGflQ5FZ+VCMb6sL5wAT30=
+			nTxJcydlTJsq8yWDqOrvXym21bRrQxUcp2XDPLxJ2c8=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fdpLvH58ZCEksmM5JNjQODPnQS6LjgjbFg3TxESFkZU=
+			A7yX5hQfqF/8N646I8dn+JoCZsTjnNBDu6q91g6BzeY=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OHVKP+BamuRibIhv2W6I4hQ+b8VFHkABgsDzeN0u6I4=
+			vbLIDFrq8GOQEd+3K9IqCU/kQeaeDjugqOKXc1Px5p8=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qz43oV0lsaD9Cxm2FinBKcGflQ5FZ+VCMb6sL5wAT30=
+			nTxJcydlTJsq8yWDqOrvXym21bRrQxUcp2XDPLxJ2c8=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rjSOxWkgRqNNUqhntK6JKOvRhCFfpduF2Fg70zSlItw=
+			hK3m4joaxMU37sapaUf/sL61fQ6WdwfsoKH3jrdKJ9o=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d7FGqP0kd1awQnMS5izuoXlgdOcTuYSeEwe5IJJo6NQ=
+			NL4y8vUDOtMyPYFtSWvIGnzXe/KKDlLufP/5PCulf0M=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fJZtPe0AvpmDxQQahORa3znMsTCeedtzD07Dr26ZUrw=
+			Ye+wbWriH6SdM4UFs8swnntPeeO9IsfbMqBTEiF+PKE=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rjSOxWkgRqNNUqhntK6JKOvRhCFfpduF2Fg70zSlItw=
+			hK3m4joaxMU37sapaUf/sL61fQ6WdwfsoKH3jrdKJ9o=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d7FGqP0kd1awQnMS5izuoXlgdOcTuYSeEwe5IJJo6NQ=
+			NL4y8vUDOtMyPYFtSWvIGnzXe/KKDlLufP/5PCulf0M=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fJZtPe0AvpmDxQQahORa3znMsTCeedtzD07Dr26ZUrw=
+			Ye+wbWriH6SdM4UFs8swnntPeeO9IsfbMqBTEiF+PKE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
