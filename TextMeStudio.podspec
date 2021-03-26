@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     'TextMe Team' => 'apple@go-text.me'
   }
   s.source = {
-    :git => 'https://github.com/textme/ios-textme-studio.git', :tag => s.version.to_s }
+    :git => 'https://github.com/textme/ios-textme-studio.git', :tag => s.version.to_s
   }
   s.platform = :ios, "12.1"
   s.ios.deployment_target = "12.1"
