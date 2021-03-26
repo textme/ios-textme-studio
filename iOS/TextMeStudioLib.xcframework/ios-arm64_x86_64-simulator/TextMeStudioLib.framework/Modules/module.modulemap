@@ -3,6 +3,11 @@ framework module TextMeStudioLib {
 
   export *
   module * { export * }
+  
+  explicit module AppsFlyerLib {
+        link "AppsFlyerLib"
+        export *
+     }
 }
 
 module TextMeStudioLib.Swift {

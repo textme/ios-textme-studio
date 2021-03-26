@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		2Qrm2fTmqSp3ToH5zk3RGe2CYvE=
+		pDXwjayw2op44xx1s0Sr/Of3wys=
 		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		wJmNz/08uGwv4hpugqHizIe7dC4=
+		5Y6+d2X3JzS0NRyEuoaxUuC+UCo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -198,7 +198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3R11l/7u0hEh3MNBZW5+Qka8NbbkkOgl0SEm9dZ2yEM=
+			0M6CxjF9SCKE8etXRe+xESiDkmakqfTcudZOj3dDMrM=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
@@ -261,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KzJeGzfbTmidCygd413OGAeo+JgZz2EUbz5Ms+zsYDM=
+			d36HdioizIXd7bbbvBlnC9CeDAZd4WjxCmbREs66/3g=
 			</data>
 		</dict>
 	</dict>
