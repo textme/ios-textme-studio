@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "12.1"
   s.license = 'TextMe Inc.'
   s.requires_arc = true
-  s.dependency 'AppsFlyerLib', '6.2.4'
+  s.dependency 'AppsFlyerFramework', '6.2.4'
   s.vendored_frameworks = 'iOS/*'
 end
