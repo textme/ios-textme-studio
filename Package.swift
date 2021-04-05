@@ -14,6 +14,10 @@ let package = Package(
             targets: ["TextMeStudioLib"]),
     ],
     dependencies: [
+        .package(
+                    url: "https://github.com/Alamofire/Alamofire.git",
+                    from: "5.4.1"
+                )
     ],
     targets: [
         .binaryTarget(name: "TextMeStudioLib", path: "iOS/TextMeStudioLib.xcframework"),
