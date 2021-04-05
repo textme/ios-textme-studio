@@ -58,11 +58,11 @@
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		TZUGcO0vcYv9X03R+xmHfE/kOFs=
+		Pc8qwS4qif9YRvQYBcUZzBcrfHk=
 		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
-		JbNgnW8liCqGu1uR02zHgDbAw7o=
+		Y2Q9E8seyCsEX4m6dipVyeElc40=
 		</data>
 		<key>Headers/TextMeStudioLib.h</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		7fnThwu+K/FHP9zJHz2RBBAHWV4=
+		prYnr2+3lmH5X5rhUjzFksSOnJY=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		sZhdpZ2po1vd5r5T7NgNS0YePzg=
+		UCKY35IBO3Jnxon6hP8GQbj03ps=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		7fnThwu+K/FHP9zJHz2RBBAHWV4=
+		prYnr2+3lmH5X5rhUjzFksSOnJY=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		sZhdpZ2po1vd5r5T7NgNS0YePzg=
+		UCKY35IBO3Jnxon6hP8GQbj03ps=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -198,14 +198,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gb5bNCrpPwtOkf+3l8r7MQbXsZWIYkepg6XHwCj9vhU=
+			58yiqtlloRpQV8WDXWil3lnapRVggOYirTXGbhJ2z7U=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nM897Uf+Fde9g3eP31ZpyqjuxIARpLsWChP4+uLhRAI=
+			fZyeILFZJ0JHQS1je2pSCvonxoVJkHiPRte+OgeE8A0=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib.h</key>
@@ -226,14 +226,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w61GuYaWBT7i3zTjwJac/K6XzJd4SdhEM6WAneDhPm8=
+			Fa4Hf+ZutMrz3yWxZDMFl3DfeIVOyUAqMV3lqSe5HAE=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			73y5DBKMly3j6alsEmwe7y+XpQJPLtUBPD8AkHoDhEI=
+			Zt+oukIX6i4dp5ZyPnTEFCMeRC8/wBCSIlwp4e5k0Q8=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
@@ -247,14 +247,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w61GuYaWBT7i3zTjwJac/K6XzJd4SdhEM6WAneDhPm8=
+			Fa4Hf+ZutMrz3yWxZDMFl3DfeIVOyUAqMV3lqSe5HAE=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			73y5DBKMly3j6alsEmwe7y+XpQJPLtUBPD8AkHoDhEI=
+			Zt+oukIX6i4dp5ZyPnTEFCMeRC8/wBCSIlwp4e5k0Q8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
