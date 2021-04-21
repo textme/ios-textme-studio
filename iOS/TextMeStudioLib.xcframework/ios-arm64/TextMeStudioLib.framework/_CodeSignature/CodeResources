@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		Pc8qwS4qif9YRvQYBcUZzBcrfHk=
+		8LD5etzcTgOugomfOENy9jECuuI=
 		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
@@ -74,27 +74,27 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		bIXz5FtC7BJ8Wfp6bFwU3JLZc/4=
+		VpujmSR4JvYjx2HX7gOYEBw8W+M=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		prYnr2+3lmH5X5rhUjzFksSOnJY=
+		3uwh190Bmw1AQ7H7wag+e3h3pSs=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		UCKY35IBO3Jnxon6hP8GQbj03ps=
+		VHpPwqCmtWGrlu7a19rmO5tC8GI=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		bIXz5FtC7BJ8Wfp6bFwU3JLZc/4=
+		VpujmSR4JvYjx2HX7gOYEBw8W+M=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		prYnr2+3lmH5X5rhUjzFksSOnJY=
+		3uwh190Bmw1AQ7H7wag+e3h3pSs=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		UCKY35IBO3Jnxon6hP8GQbj03ps=
+		VHpPwqCmtWGrlu7a19rmO5tC8GI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -198,7 +198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			58yiqtlloRpQV8WDXWil3lnapRVggOYirTXGbhJ2z7U=
+			VTwr32k+2Dt0hr3wpc/LE+QsLcHwGaJkKYqoaYvX/lU=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
@@ -219,42 +219,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j8BnOWM8b/gxqLi7ClGOtFIeoCHBApdu9HZnC0Ny0es=
+			nJnhHofi706CQ9Qr7nlrx8t215rIRwgtlLiYs+Aj0sA=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fa4Hf+ZutMrz3yWxZDMFl3DfeIVOyUAqMV3lqSe5HAE=
+			kj9RTY/jcuI4Bd6DQZMTiKXKz8LSGsVQ8cOO2qXiHZ8=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zt+oukIX6i4dp5ZyPnTEFCMeRC8/wBCSIlwp4e5k0Q8=
+			QL2Ryn8d66NvmdA4CbdwbWuTkIAEfdxJ7F7/Ry2tjoE=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j8BnOWM8b/gxqLi7ClGOtFIeoCHBApdu9HZnC0Ny0es=
+			nJnhHofi706CQ9Qr7nlrx8t215rIRwgtlLiYs+Aj0sA=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fa4Hf+ZutMrz3yWxZDMFl3DfeIVOyUAqMV3lqSe5HAE=
+			kj9RTY/jcuI4Bd6DQZMTiKXKz8LSGsVQ8cOO2qXiHZ8=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zt+oukIX6i4dp5ZyPnTEFCMeRC8/wBCSIlwp4e5k0Q8=
+			QL2Ryn8d66NvmdA4CbdwbWuTkIAEfdxJ7F7/Ry2tjoE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

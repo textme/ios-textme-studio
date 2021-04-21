@@ -74,27 +74,27 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		5/o9LBbBlGXWqPL2R1xhCXJX64s=
+		fYdk9CCwxHbyZ6JjuQRvrSF4IQs=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DijnynMhvvm10LqG4j+9qqTN3GU=
+		OkiVsfUXfCuuDL0DVmBlCYc6Z84=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QmguMqGvhkjx5kqA5o2ni9sgHQo=
+		H/M59+XioZIHTBQ9uiIW3iqVc9M=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		5/o9LBbBlGXWqPL2R1xhCXJX64s=
+		fYdk9CCwxHbyZ6JjuQRvrSF4IQs=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		DijnynMhvvm10LqG4j+9qqTN3GU=
+		OkiVsfUXfCuuDL0DVmBlCYc6Z84=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		QmguMqGvhkjx5kqA5o2ni9sgHQo=
+		H/M59+XioZIHTBQ9uiIW3iqVc9M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -219,42 +219,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T53x4V6kCjoqsmitw8i2fZlrnatCdRcBFxJkQ5ySHgI=
+			rjSOxWkgRqNNUqhntK6JKOvRhCFfpduF2Fg70zSlItw=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ldk29bDT5WLod4sn6oJ/KUPuRARqOu3RcFnBfAEfHvU=
+			ZPiSdvuOR3+vwFH+d43EnhnYyUZGFle9b5Gn6FD2fhA=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wGpPWUiem/8kXzCjT+gZcM9RBY98h/7D8pB4btJT+bY=
+			rl5RLhybyclsXwklBSyNLJLNN6BR9yYOvML0KbQsVGY=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T53x4V6kCjoqsmitw8i2fZlrnatCdRcBFxJkQ5ySHgI=
+			rjSOxWkgRqNNUqhntK6JKOvRhCFfpduF2Fg70zSlItw=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ldk29bDT5WLod4sn6oJ/KUPuRARqOu3RcFnBfAEfHvU=
+			ZPiSdvuOR3+vwFH+d43EnhnYyUZGFle9b5Gn6FD2fhA=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wGpPWUiem/8kXzCjT+gZcM9RBY98h/7D8pB4btJT+bY=
+			rl5RLhybyclsXwklBSyNLJLNN6BR9yYOvML0KbQsVGY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
