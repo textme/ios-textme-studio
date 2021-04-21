@@ -10,11 +10,9 @@ import Swift
 @_exported import TextMeStudioLib
 import UIKit
 public struct EventLoggerService {
-  public func log(_ eventName: Swift.String, values: [Swift.String : Any]?)
 }
 @_hasMissingDesignatedInitializers public class TextMeStudio {
   public static let shared: TextMeStudioLib.TextMeStudio
-  public var eventLogger: TextMeStudioLib.EventLoggerService
   public func initialize(token sdkToken: Swift.String)
   @objc deinit
 }
