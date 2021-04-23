@@ -35,6 +35,12 @@ extension UIDevice {
     get
   }
 }
+extension NSNotification.Name {
+  public static let TMSInAppLoading: Foundation.NSNotification.Name
+  public static let TMSInAppLoaded: Foundation.NSNotification.Name
+  public static let TMSReceiptLoading: Foundation.NSNotification.Name
+  public static let TMSReceiptLoaded: Foundation.NSNotification.Name
+}
 extension TextMeStudioLib.Model : Swift.Equatable {}
 extension TextMeStudioLib.Model : Swift.Hashable {}
 extension TextMeStudioLib.Model : Swift.RawRepresentable {}
