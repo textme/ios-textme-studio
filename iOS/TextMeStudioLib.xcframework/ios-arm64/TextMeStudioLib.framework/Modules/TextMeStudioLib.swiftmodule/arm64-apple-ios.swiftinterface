@@ -13,7 +13,10 @@ public struct EventLoggerService {
 }
 @_hasMissingDesignatedInitializers public class TextMeStudio {
   public static let shared: TextMeStudioLib.TextMeStudio
-  public func initialize(token sdkToken: Swift.String)
+  public var appConfig: [Swift.String : Any]? {
+    get
+  }
+  public func initialize(token sdkToken: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], Swift.Error>) -> Swift.Void)
   @objc deinit
 }
 extension TextMeStudio {

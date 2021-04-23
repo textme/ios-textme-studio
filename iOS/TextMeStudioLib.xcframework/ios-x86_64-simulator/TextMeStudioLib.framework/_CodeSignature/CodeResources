@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AppsFlyerLib.framework/AppsFlyerLib</key>
 		<data>
-		BxvIRITpBEBQCuIldALvOESVc/4=
+		VXxgqjsqaJ05Gsw4KNs0bzgrw0E=
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/Headers/AppsFlyerCrossPromotionHelper.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/Headers/AppsFlyerLib.h</key>
 		<data>
-		ZRviLYWb6gmJJhGA5D+jnD5rXQA=
+		iUQsppAArS68GNzKfY/P116Mnzc=
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/Headers/AppsFlyerLinkGenerator.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		QaLXhwu5uBJlKroKrr2JXoY9ASU=
+		2HbdZsufx0EOv+3jgkh3cQjxZNM=
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		Mi4J529iA98mVlyvEX3/Cdpqhuc=
+		6G5xjn8ESI4caxz2fLNm0qlRp10=
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeResources</key>
 		<data>
-		5YxmQS+OwhJpV5TS0Yk+xMCvT80=
+		qQ7xzcB7HeQrVH4dAQCMdUrghkg=
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mDAys4NKIbeSJKWZMj5LX4zpCnc=
+		7ce628XR7Dpc/GCVP6y5tT17H6A=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SPuhyWZW4dbgfCunvMy6y19rNuQ=
+		0tQwn5AGuluF3feGNgLX0oNgovQ=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		mDAys4NKIbeSJKWZMj5LX4zpCnc=
+		7ce628XR7Dpc/GCVP6y5tT17H6A=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		SPuhyWZW4dbgfCunvMy6y19rNuQ=
+		0tQwn5AGuluF3feGNgLX0oNgovQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OVIevPGnUNJtOP8n0lJkzLdKiW4YFeEjaJMllK+QDQU=
+			HmU7RV1gHmQMiudXDUVzAJ36UZThHVx8I0V63Iy8YQY=
 			</data>
 		</dict>
 		<key>Frameworks/AppsFlyerLib.framework/Headers/AppsFlyerCrossPromotionHelper.h</key>
@@ -135,7 +135,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZZ4SsHcYuNejR86wH0euWZP/zll2VWBRqTIS9t5tpNs=
+			kiY8YRZhGRh6yCP5apKvr9pY2abIYpZPz0+C63MwH08=
 			</data>
 		</dict>
 		<key>Frameworks/AppsFlyerLib.framework/Headers/AppsFlyerLinkGenerator.h</key>
@@ -170,7 +170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wKtbZiLVfzaQq96AllCqsAtKvzq6djulUMuPxIJo8BU=
+			7idYG1kyk9DimpjJ0+Xv9OLLIG4lNiUeARMHlfOOdIM=
 			</data>
 		</dict>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeRequirements</key>
@@ -184,14 +184,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pniLLRASmjnQIR24aso+VY8ZrWDb/fL0SAlWCWlzOOQ=
+			TjSrJvday4wHdhIj/1FTwEVwnJ8Gty+WsyV3XTYuljQ=
 			</data>
 		</dict>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gY9O1ukXzXdeHqMzpSKjyqGasc+svWAHxquDsfKCI9o=
+			1+L9YeLiDOlVrflkSNKOqXWxPWRcoTAgq5t8hT387ZE=
 			</data>
 		</dict>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeSignature</key>
@@ -226,14 +226,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dBMCqNzYpnmtemrSoc7ueAqnr6BxaLlPPBSQVNapPuU=
+			BemE6tJnVFeUnqMGYf8WRW5UahJi9ctaVBg/7xCapMc=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ek4oX++EQzbesUXW4nH4FeN0ZAI27yJEa8VnK+JOpGY=
+			z3pL5cFxgvO7oXHekV6Q0Jl2m+BYZRNJRfTeU0cpoio=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
@@ -247,14 +247,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dBMCqNzYpnmtemrSoc7ueAqnr6BxaLlPPBSQVNapPuU=
+			BemE6tJnVFeUnqMGYf8WRW5UahJi9ctaVBg/7xCapMc=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ek4oX++EQzbesUXW4nH4FeN0ZAI27yJEa8VnK+JOpGY=
+			z3pL5cFxgvO7oXHekV6Q0Jl2m+BYZRNJRfTeU0cpoio=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
