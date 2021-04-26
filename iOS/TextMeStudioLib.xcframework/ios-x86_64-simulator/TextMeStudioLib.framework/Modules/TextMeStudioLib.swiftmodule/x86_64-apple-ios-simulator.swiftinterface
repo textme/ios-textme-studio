@@ -9,6 +9,16 @@ import StoreKit
 import Swift
 @_exported import TextMeStudioLib
 import UIKit
+public protocol InAppServiceProtocol {
+  var inAppLoading: Swift.Bool { get }
+  var receiptLoading: Swift.Bool { get }
+  func productInfo(productIdentifier: Swift.String) -> [Swift.String : Any]?
+  func hasHactiveSubscription(force: Swift.Bool) -> Swift.Bool
+  func hasHactiveSubscription() -> Swift.Bool
+  func purchase(product: [Swift.String : Swift.AnyObject], completion: @escaping (Swift.Error?) -> Swift.Void)
+  func restorePurchases(completion: @escaping (Swift.Error?) -> Swift.Void)
+  func requestProducts()
+}
 public struct EventLoggerService {
 }
 @_hasMissingDesignatedInitializers public class TextMeStudio {
@@ -16,6 +26,7 @@ public struct EventLoggerService {
   public var appConfig: [Swift.String : Any]? {
     get
   }
+  public var inapp: TextMeStudioLib.InAppServiceProtocol?
   public func initialize(token sdkToken: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], Swift.Error>) -> Swift.Void)
   @objc deinit
 }
