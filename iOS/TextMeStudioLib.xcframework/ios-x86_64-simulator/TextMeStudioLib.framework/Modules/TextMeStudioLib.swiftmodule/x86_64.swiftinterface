@@ -9,15 +9,25 @@ import StoreKit
 import Swift
 @_exported import TextMeStudioLib
 import UIKit
-public protocol InAppServiceProtocol {
-  var inAppLoading: Swift.Bool { get }
-  var receiptLoading: Swift.Bool { get }
-  func productInfo(productIdentifier: Swift.String) -> [Swift.String : Any]?
-  func hasHactiveSubscription(force: Swift.Bool) -> Swift.Bool
-  func hasHactiveSubscription() -> Swift.Bool
-  func purchase(product: [Swift.String : Swift.AnyObject], completion: @escaping (Swift.Error?) -> Swift.Void)
-  func restorePurchases(completion: @escaping (Swift.Error?) -> Swift.Void)
-  func requestProducts()
+@objc public protocol TMSInAppServiceDelegate {
+  @objc optional func inAppServiceLoading()
+  @objc optional func inAppServiceLoaded()
+  @objc optional func receiptLoading()
+  @objc optional func receiptLoaded()
+  @objc optional func purchaseSucceeded(_ product: Foundation.NSDictionary)
+  @objc optional func subscriptionExpired()
+  @objc optional func trialPeriod() -> Swift.Int
+}
+@objc public protocol TMSInAppServiceProtocol {
+  @objc var inAppLoading: Swift.Bool { get }
+  @objc var receiptLoading: Swift.Bool { get }
+  @objc func productInfo(productIdentifier: Swift.String) -> [Swift.String : Any]?
+  @objc func hasHactiveSubscription(force: Swift.Bool) -> Swift.Bool
+  @objc func hasHactiveSubscription() -> Swift.Bool
+  @objc func purchase(product: [Swift.String : Swift.AnyObject], completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc func restorePurchases(completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc func requestProducts()
+  @objc weak var delegate: TextMeStudioLib.TMSInAppServiceDelegate? { get set }
 }
 public struct EventLoggerService {
 }
@@ -26,7 +36,7 @@ public struct EventLoggerService {
   public var appConfig: [Swift.String : Any]? {
     get
   }
-  public var inapp: TextMeStudioLib.InAppServiceProtocol?
+  public var inApp: TextMeStudioLib.TMSInAppServiceProtocol?
   public func initialize(token sdkToken: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], Swift.Error>) -> Swift.Void)
   @objc deinit
 }
@@ -45,12 +55,6 @@ extension UIDevice {
   public var type: TextMeStudioLib.Model {
     get
   }
-}
-extension NSNotification.Name {
-  public static let TMSInAppLoading: Foundation.NSNotification.Name
-  public static let TMSInAppLoaded: Foundation.NSNotification.Name
-  public static let TMSReceiptLoading: Foundation.NSNotification.Name
-  public static let TMSReceiptLoaded: Foundation.NSNotification.Name
 }
 extension TextMeStudioLib.Model : Swift.Equatable {}
 extension TextMeStudioLib.Model : Swift.Hashable {}

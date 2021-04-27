@@ -205,6 +205,34 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@class NSDictionary;
+
+SWIFT_PROTOCOL("_TtP15TextMeStudioLib23TMSInAppServiceDelegate_")
+@protocol TMSInAppServiceDelegate
+@optional
+- (void)inAppServiceLoading;
+- (void)inAppServiceLoaded;
+- (void)receiptLoading;
+- (void)receiptLoaded;
+- (void)purchaseSucceeded:(NSDictionary * _Nonnull)product;
+- (void)subscriptionExpired;
+- (NSInteger)trialPeriod SWIFT_WARN_UNUSED_RESULT;
+@end
+
+
+SWIFT_PROTOCOL("_TtP15TextMeStudioLib23TMSInAppServiceProtocol_")
+@protocol TMSInAppServiceProtocol
+@property (nonatomic, readonly) BOOL inAppLoading;
+@property (nonatomic, readonly) BOOL receiptLoading;
+- (NSDictionary<NSString *, id> * _Nullable)productInfoWithProductIdentifier:(NSString * _Nonnull)productIdentifier SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)hasHactiveSubscriptionWithForce:(BOOL)force SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)hasHactiveSubscription SWIFT_WARN_UNUSED_RESULT;
+- (void)purchaseWithProduct:(NSDictionary<NSString *, id> * _Nonnull)product completion:(void (^ _Nonnull)(NSError * _Nullable))completion;
+- (void)restorePurchasesWithCompletion:(void (^ _Nonnull)(NSError * _Nullable))completion;
+- (void)requestProducts;
+@property (nonatomic, weak) id <TMSInAppServiceDelegate> _Nullable delegate;
+@end
+
 
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
