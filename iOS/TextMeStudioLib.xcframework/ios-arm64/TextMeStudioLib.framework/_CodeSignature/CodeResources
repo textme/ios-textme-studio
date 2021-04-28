@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/AppsFlyerLib.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		KSegOjX5CIemzFBHuKvLivQ6ESM=
+		ghsclFh7pdwW7NIbL0ErU27oraQ=
 		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ejaUm/fXjeJNXHbTBCRp9hE/qr0=
+		TD7hH2oP5dsoKagSvpCQMPmOcIw=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ejaUm/fXjeJNXHbTBCRp9hE/qr0=
+		TD7hH2oP5dsoKagSvpCQMPmOcIw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -198,7 +198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x3BQx+xvYjIUxbZa2oWl5Ogej2mAbfvVHstQi6SHUKk=
+			C2IE30ts51dQwYRqf3qczC03g8ugzfd2qLQ7XLjm9d8=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
@@ -233,7 +233,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pq6n0B/LUKc5tksvrYiMEa3mb9h28h+AcvrFHuXcB5g=
+			Uyk5zPIkJB+ZpdZ+D4l3yXLF9/+Y9kICDJQsH7coMSw=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
@@ -254,7 +254,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pq6n0B/LUKc5tksvrYiMEa3mb9h28h+AcvrFHuXcB5g=
+			Uyk5zPIkJB+ZpdZ+D4l3yXLF9/+Y9kICDJQsH7coMSw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
