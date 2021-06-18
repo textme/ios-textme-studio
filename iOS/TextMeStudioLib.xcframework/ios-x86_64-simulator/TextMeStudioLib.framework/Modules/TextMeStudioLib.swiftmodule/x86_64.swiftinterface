@@ -33,6 +33,9 @@ public struct EventLoggerService {
 }
 @_hasMissingDesignatedInitializers public class TextMeStudio {
   public static let shared: TextMeStudioLib.TextMeStudio
+  public var appConfig: [Swift.String : Any]? {
+    get
+  }
   public var inApp: TextMeStudioLib.TMSInAppServiceProtocol?
   public func initialize(token sdkToken: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], Swift.Error>) -> Swift.Void)
   @objc deinit
