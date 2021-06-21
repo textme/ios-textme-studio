@@ -31,8 +31,10 @@ import UIKit
 }
 public struct EventLoggerService {
 }
-@_hasMissingDesignatedInitializers public class TextMeStudio {
-  public static let shared: TextMeStudioLib.TextMeStudio
+@_hasMissingDesignatedInitializers public class TextMeStudio : TextMeStudioLib.TextMeStudioProtocol {
+  public static var shared: TextMeStudioLib.TextMeStudioProtocol {
+    get
+  }
   public var appConfig: [Swift.String : Any]? {
     get
   }
@@ -41,7 +43,8 @@ public struct EventLoggerService {
   @objc deinit
 }
 extension TextMeStudio {
-  public func log(_ eventName: Swift.String, values: [Swift.String : Any]? = nil)
+  public func log(_ eventName: Swift.String)
+  public func log(_ eventName: Swift.String, values: [Swift.String : Any]?)
 }
 public enum Model : Swift.String {
   case simulator, iPod1, iPod2, iPod3, iPod4, iPod5, iPod6, iPod7, iPad2, iPad3, iPad4, iPadAir, iPadAir2, iPadAir3, iPadAir4, iPad5, iPad6, iPad7, iPad8, iPadMini, iPadMini2, iPadMini3, iPadMini4, iPadMini5, iPadPro9_7, iPadPro10_5, iPadPro11, iPadPro2_11, iPadPro12_9, iPadPro2_12_9, iPadPro3_12_9, iPadPro4_12_9, iPhone4, iPhone4S, iPhone5, iPhone5S, iPhone5C, iPhone6, iPhone6Plus, iPhone6S, iPhone6SPlus, iPhoneSE, iPhone7, iPhone7Plus, iPhone8, iPhone8Plus, iPhoneX, iPhoneXS, iPhoneXSMax, iPhoneXR, iPhone11, iPhone11Pro, iPhone11ProMax, iPhoneSE2, iPhone12Mini, iPhone12, iPhone12Pro, iPhone12ProMax, AppleWatch1, AppleWatchS1, AppleWatchS2, AppleWatchS3, AppleWatchS4, AppleWatchS5, AppleWatchSE, AppleWatchS6, AppleTV1, AppleTV2, AppleTV3, AppleTV4, AppleTV_4K, unrecognized
@@ -55,6 +58,14 @@ extension UIDevice {
   public var type: TextMeStudioLib.Model {
     get
   }
+}
+public protocol TextMeStudioProtocol {
+  static var shared: TextMeStudioLib.TextMeStudioProtocol { get }
+  var appConfig: [Swift.String : Any]? { get }
+  var inApp: TextMeStudioLib.TMSInAppServiceProtocol? { get }
+  func initialize(token sdkToken: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], Swift.Error>) -> Swift.Void)
+  func log(_ eventName: Swift.String)
+  func log(_ eventName: Swift.String, values: [Swift.String : Any]?)
 }
 extension TextMeStudioLib.Model : Swift.Equatable {}
 extension TextMeStudioLib.Model : Swift.Hashable {}
