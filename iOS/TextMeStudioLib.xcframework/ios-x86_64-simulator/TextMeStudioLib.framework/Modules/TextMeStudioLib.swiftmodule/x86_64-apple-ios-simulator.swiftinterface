@@ -31,6 +31,9 @@ import UIKit
 }
 public struct EventLoggerService {
 }
+extension NSNotification.Name {
+  public static let appConfigDidFetch: Foundation.Notification.Name
+}
 @_hasMissingDesignatedInitializers public class TextMeStudio : TextMeStudioLib.TextMeStudioProtocol {
   public static var shared: TextMeStudioLib.TextMeStudioProtocol {
     get
