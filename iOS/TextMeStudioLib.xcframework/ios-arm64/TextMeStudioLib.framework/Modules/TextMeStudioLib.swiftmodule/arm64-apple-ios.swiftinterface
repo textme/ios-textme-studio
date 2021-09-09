@@ -1,9 +1,11 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+// swift-compiler-version: Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
 // swift-module-flags: -target arm64-apple-ios12.1 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name TextMeStudioLib
 import AdSupport
 import AppTrackingTransparency
 import Foundation
+import GoogleMobileAds
+import SafariServices
 import Security
 import StoreKit
 import Swift
@@ -28,6 +30,40 @@ import UIKit
   @objc func restorePurchases(completion: @escaping (Swift.Error?) -> Swift.Void)
   @objc func requestProducts()
   @objc weak var delegate: TextMeStudioLib.TMSInAppServiceDelegate? { get set }
+}
+public enum ApplicationThemeColorName : Swift.String {
+  public typealias RawValue = Swift.String
+  case background
+  case border
+  case darkMain
+  case intermediateBackground
+  case intermediateDarkMain
+  case lightMain
+  case main
+  case negation
+  case specialTableHeader
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+}
+extension UIColor {
+  public static func UIColorFromRGB(_ rgbValue: Swift.UInt32) -> UIKit.UIColor
+  public static func fromApplicationTheme(name: TextMeStudioLib.ApplicationThemeColorName) -> UIKit.UIColor
+}
+public typealias GADBannerAdLoadCompletionHandler = (GoogleMobileAds.GADBannerView?, Swift.Error?) -> ()
+@_hasMissingDesignatedInitializers public class TMSAdService {
+  public class func loadBanner(adSize: GoogleMobileAds.GADAdSize, origin: CoreGraphics.CGPoint, completionHandler: @escaping TextMeStudioLib.GADBannerAdLoadCompletionHandler)
+  public class func loadInterstitial(withAdUnitID adUnitID: Swift.String, completionHandler: @escaping GoogleMobileAds.GADInterstitialAdLoadCompletionHandler)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class TMSRouter {
+  public static func presentInApp(_ rootViewController: UIKit.UIViewController, animated: Swift.Bool, completion: (() -> Swift.Void)?)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class RemoteConfig {
+  public static func initialize(appConfig: [Swift.String : Any])
+  @objc deinit
 }
 public struct EventLoggerService {
 }
@@ -70,6 +106,9 @@ public protocol TextMeStudioProtocol {
   func log(_ eventName: Swift.String)
   func log(_ eventName: Swift.String, values: [Swift.String : Any]?)
 }
+extension TextMeStudioLib.ApplicationThemeColorName : Swift.Equatable {}
+extension TextMeStudioLib.ApplicationThemeColorName : Swift.Hashable {}
+extension TextMeStudioLib.ApplicationThemeColorName : Swift.RawRepresentable {}
 extension TextMeStudioLib.Model : Swift.Equatable {}
 extension TextMeStudioLib.Model : Swift.Hashable {}
 extension TextMeStudioLib.Model : Swift.RawRepresentable {}

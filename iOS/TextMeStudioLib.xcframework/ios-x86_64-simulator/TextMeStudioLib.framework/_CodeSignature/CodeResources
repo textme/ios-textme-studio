@@ -4,9 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		mhhXgRqXlQrtCHQa4tcIuDuwpQg=
+		</data>
+		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/objects-13.0+.nib</key>
+		<data>
+		/VV7GqBEc9tsrRevGImIZaS8pZY=
+		</data>
+		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/runtime.nib</key>
+		<data>
+		kDkmSOKDp60UEB4PL5Zde+UBIws=
+		</data>
+		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
+		<data>
+		7janjv0sURsp99vEcJ5LiWf+J9A=
+		</data>
+		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/objects-13.0+.nib</key>
+		<data>
+		4d1ZLmLJ1tIhHYWZEHiR6q/xYRU=
+		</data>
+		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/runtime.nib</key>
+		<data>
+		FnEG/xKenrMdmtgeet7ID6MdU2Y=
+		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
-		JOoIfXtMox5ULIAF1KPnVaw0tvo=
+		/0F1zakgb19Aj9jT1R+qUtNSgTA=
 		</data>
 		<key>Headers/TextMeStudioLib.h</key>
 		<data>
@@ -14,44 +38,106 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fR9ca/b+5QetjqbtZ0qdGHWfRQ0=
+		GC+4QChLN9hxj3/dKTwKUWejWGk=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		NvoiMqHLTVwtPMKyUpSC9rH70Vk=
+		dXnPYDAHZy4GaJ0SmZiec8bEo7E=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		gbdyeQgx/W6xzoFXiPUH2K8zkl4=
+		Mo9cDanvLIiwt6mG6i+tKWBT/Fs=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2OictPdYy0sJo8RFKQbdmj92UQc=
+		AMnKA0+MkBfXegOUlCE9VKeEB80=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		NvoiMqHLTVwtPMKyUpSC9rH70Vk=
+		dXnPYDAHZy4GaJ0SmZiec8bEo7E=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		gbdyeQgx/W6xzoFXiPUH2K8zkl4=
+		Mo9cDanvLIiwt6mG6i+tKWBT/Fs=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		2OictPdYy0sJo8RFKQbdmj92UQc=
+		AMnKA0+MkBfXegOUlCE9VKeEB80=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		wJmNz/08uGwv4hpugqHizIe7dC4=
 		</data>
+		<key>WorkSans-Bold.ttf</key>
+		<data>
+		fP3WbUM63G3bsVqtq60qf02H42E=
+		</data>
+		<key>WorkSans-Light.ttf</key>
+		<data>
+		c4fL5uiEoHeJRQliJTTXaPkYeEI=
+		</data>
+		<key>WorkSans-Medium.ttf</key>
+		<data>
+		Ms2IrNCGqiZQvA0DVk3sE+r4Oqw=
+		</data>
+		<key>WorkSans-Regular.ttf</key>
+		<data>
+		lE/qdXFC49j7dXCcCg/K3KU5HtQ=
+		</data>
+		<key>WorkSans-SemiBold.ttf</key>
+		<data>
+		3lL8TwzuWtbrvYfmLCjfTMLSyos=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Cccd31zViVeNw8iQzJEhMki8DV4c/WcZ8eAN2SFJ5Xc=
+			</data>
+		</dict>
+		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w4X9EglTC5ZGPsPIUPmGXReJiaLwvmaDV+MybyM8QTM=
+			</data>
+		</dict>
+		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lMoX7llauxCAqYcOyeCNWzalwLBgMBenTX0b3ibr6yA=
+			</data>
+		</dict>
+		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y/6/3bn2DpxUWlLg4jXQ/8XU1acpE2fpRSSEoCVrh1I=
+			</data>
+		</dict>
+		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W0C3OdgFpeJiEL+kh6c9PbYKyYd/TGtkrTN7R7iPUdU=
+			</data>
+		</dict>
+		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wQQd2GdIUMWemOtfYAmcUJG49A1SC9Uh4VpPeHXyD4o=
+			</data>
+		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6CNjzHsXzySVoYb0DFjoKVBbcycEC6Qq4oEiIgf3bjA=
+			MUvb3Bzq//Vvl7eYP/gXnPw/QwkuLIbjQLnzCL65kko=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib.h</key>
@@ -65,42 +151,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZFUNIiIC+UwS73hf0Wi30xJkxYh2Md6mNpoVxzPnz/Q=
+			k9EZdcbyXaPcIbjfMiM3XOcGhUYqYrDNJ0m1Cmat5lY=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pu1/uVdrV2D0iBDNWDElsCt+9ZOnNUWml7G/Q0p9LDE=
+			1jqKKu8mfU1Z+iEfN/eyixd/Bcma4tfxcJN2wMYHb+s=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2tM2E6Eyy9hE+vFBqcZLZdukIJuzXGeVp3aqM7gdez4=
+			hSd8f3AJ4uEfbPiT1PY/Hvhtq54URdY1sWzrUW3QasQ=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZFUNIiIC+UwS73hf0Wi30xJkxYh2Md6mNpoVxzPnz/Q=
+			k9EZdcbyXaPcIbjfMiM3XOcGhUYqYrDNJ0m1Cmat5lY=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pu1/uVdrV2D0iBDNWDElsCt+9ZOnNUWml7G/Q0p9LDE=
+			1jqKKu8mfU1Z+iEfN/eyixd/Bcma4tfxcJN2wMYHb+s=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2tM2E6Eyy9hE+vFBqcZLZdukIJuzXGeVp3aqM7gdez4=
+			hSd8f3AJ4uEfbPiT1PY/Hvhtq54URdY1sWzrUW3QasQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -108,6 +194,41 @@
 			<key>hash2</key>
 			<data>
 			KzJeGzfbTmidCygd413OGAeo+JgZz2EUbz5Ms+zsYDM=
+			</data>
+		</dict>
+		<key>WorkSans-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0O+rJMXaxLteCdtk2gpfleMishUnXXNTsiNo53+MxNE=
+			</data>
+		</dict>
+		<key>WorkSans-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jd0wTYlKfdCesT32jLjMB6dDoITuBFq9VVncM/83wmM=
+			</data>
+		</dict>
+		<key>WorkSans-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r80kSVwI4TrOZwA5PRjXEdAIv04J0zAWqUlcsUJn5XQ=
+			</data>
+		</dict>
+		<key>WorkSans-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gwfsTbHSTEXqyhd/Yb1vrm2wdTxjcAqZMTQudGio8qQ=
+			</data>
+		</dict>
+		<key>WorkSans-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QcMosrQtxLzgD1brmE2QUwFnZHKJ+fCpSGPfsOt6jFg=
 			</data>
 		</dict>
 	</dict>
