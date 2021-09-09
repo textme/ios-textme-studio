@@ -15,12 +15,16 @@ let package = Package(
     ],
     dependencies: [
         .package(
-                    url: "https://github.com/Alamofire/Alamofire.git",
-                    from: "5.4.1"
-                ),
+            url: "https://github.com/Alamofire/Alamofire.git",
+            from: "5.4.1"
+        ),
         .package(
             url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework",
             from: "6.2.6"
+        ),
+        .package(
+            url: "https://github.com/quanghits/GoogleMobileAds,
+            from: "8.8.0"
         )
     ],
     targets: [

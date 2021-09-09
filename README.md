@@ -10,10 +10,6 @@
 - Select the TextMeStudio library
 
 
-## Cocoapod
-- In your Podfile, add ```pod TextMeStudio```
-
-
 ## HOW TO
 - In your ```AppDelegate``` file:
 ```import TextMeStudioLib```
