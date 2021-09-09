@@ -10,11 +10,11 @@
 		</data>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/objects-13.0+.nib</key>
 		<data>
-		VKXLFsB7gwOESkmSV2trKYOzxBY=
+		ktmcMOhuWgE4o8ArkOJYyXXssGw=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/runtime.nib</key>
 		<data>
-		cTW8f8zdvCu0klXf4NllGb1bE0M=
+		tmDcIuPyitGkoQ0WkbTPmUowJgo=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/objects-13.0+.nib</key>
 		<data>
-		k80pOt3PU/Pdu9mkO7p+qutGTq0=
+		1FAkijttnuu5a+oZz+3/dDrqdok=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/runtime.nib</key>
 		<data>
-		alcanqfUhr6udC1kS14+ktLk8zA=
+		5gpYVNaBOpt+1DyVzFKhe4t665k=
 		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UUF5QfgOatve9RkJSEp9pPqMpjY=
+		nSOwAkge46PMXvAFxbEuFxRJbeU=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -102,14 +102,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RUaD4OiXDRsGBl2//KhWbYnoV13i60paGrDet/JAIu8=
+			/h8kW2V8O3JJIcm+Tgc8T1lV+0sChtVeb8pplgl/oOo=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q56rg1X0ytF4R9CWZzcGoJetavnonF+OlMwfQWTHqrk=
+			PF4cycWliGq/wr+AZ5GjwDC5YtDJIAB7aWycTQALCPw=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
@@ -123,14 +123,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wNwQsnZCK5A7oxvDk8bMuHGqZQ4Lu7vqDLhy4Qh+XLs=
+			GC/7F9KrkZn0GRFyZDI6ygG6nReSw5ElBDoGuVMLn8I=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GXliItxK/QV/hT0yVcDtCqEktTqDjAgrw0A4MGseRZw=
+			OyW1koNQihMA5gfFsLeVZiViqmPXHemzDBY9u6tpaq0=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
