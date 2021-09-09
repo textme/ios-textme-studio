@@ -23,7 +23,7 @@ let package = Package(
             from: "6.2.6"
         ),
         .package(
-            url: "https://github.com/quanghits/GoogleMobileAds,
+            url: "https://github.com/quanghits/GoogleMobileAds",
             from: "8.8.0"
         )
     ],
