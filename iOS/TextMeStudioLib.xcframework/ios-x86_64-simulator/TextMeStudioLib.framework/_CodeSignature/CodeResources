@@ -10,11 +10,11 @@
 		</data>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/objects-13.0+.nib</key>
 		<data>
-		nNTQkXe9nJuO3UhKS3CVqjx/1ic=
+		OJFId/SVmlPXm5oJ7F2ZNM25W+I=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/runtime.nib</key>
 		<data>
-		xOXWLncmjeSROBjrkm8fRegI+j4=
+		U1RXv7eiyrTTNXNk62nEsFbgYb4=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/objects-13.0+.nib</key>
 		<data>
-		jvDkojwESbc3jd3S43HgIXibYh8=
+		+e58xlFVEspXreOn+DhqM/dTkgs=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/runtime.nib</key>
 		<data>
-		5cVJ1WttkO9f1eQ+1a4l2lmrzsk=
+		dt/AjO3tGf4SymEJ3Ma5e1NoV08=
 		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ddIKJnbDIDxyG28zS5hXBGXC/ns=
+		mitbIcY9TBwEvlTotjkiYW0Iq9g=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Mo9cDanvLIiwt6mG6i+tKWBT/Fs=
+		q+3LxK7dVH+Q0jx0feoRNCtgR74=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AMnKA0+MkBfXegOUlCE9VKeEB80=
+		PiPmFA7Yi6lskXmEq2F69h9FhRU=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		Mo9cDanvLIiwt6mG6i+tKWBT/Fs=
+		q+3LxK7dVH+Q0jx0feoRNCtgR74=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		AMnKA0+MkBfXegOUlCE9VKeEB80=
+		PiPmFA7Yi6lskXmEq2F69h9FhRU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -102,14 +102,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IZPbVFGZDVYnYC3qxWSchC65QJTKrioUWzxyfNMA8XM=
+			QkI13WsrexZDYxARUfDUInsrBEfsgBbV2+Z0rk9/rb8=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BMIinkNBnqICQ4B7Obsp4QRzcrUkYsT52NDwUaCSEHo=
+			qf881qlRwSuzOX/pWp4izixKMOXBcBYpaKrsFQf5qBo=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
@@ -123,14 +123,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTEK92IgKJypmmLlYHMw+Katc6ChnL8FPHO5RDorb8Q=
+			tlFCJOLC20MYJAHMZmFSe2indabVprTGlOnSeYYTCWA=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w71yWZXAbgY5mbqcxlwAXo5UWo9CZP1iu9CuyJIzZH4=
+			VKy9acwra1cn9fqqZcGPzI7A6nKap3U+VdJBFj81eu8=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
@@ -158,14 +158,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1jqKKu8mfU1Z+iEfN/eyixd/Bcma4tfxcJN2wMYHb+s=
+			871PEI2XA8k/b9CAiqLunHkIusSRVrAfC9cgxf3e1ck=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hSd8f3AJ4uEfbPiT1PY/Hvhtq54URdY1sWzrUW3QasQ=
+			S8YLGjKbu35++YT+NXfVyYqhq3O70d6oGD3vFmL3SL4=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
@@ -179,14 +179,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1jqKKu8mfU1Z+iEfN/eyixd/Bcma4tfxcJN2wMYHb+s=
+			871PEI2XA8k/b9CAiqLunHkIusSRVrAfC9cgxf3e1ck=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hSd8f3AJ4uEfbPiT1PY/Hvhtq54URdY1sWzrUW3QasQ=
+			S8YLGjKbu35++YT+NXfVyYqhq3O70d6oGD3vFmL3SL4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
