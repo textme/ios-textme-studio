@@ -79,6 +79,10 @@ extension RemoteConfig : Swift.Collection {
     get
   }
   public func index(after i: TextMeStudioLib.RemoteConfig.Index) -> TextMeStudioLib.RemoteConfig.Index
+  public subscript(key: Swift.String) -> Any? {
+    get
+    set
+  }
   public typealias Indices = Swift.DefaultIndices<TextMeStudioLib.RemoteConfig>
   public typealias Iterator = Swift.IndexingIterator<TextMeStudioLib.RemoteConfig>
   public typealias SubSequence = Swift.Slice<TextMeStudioLib.RemoteConfig>
