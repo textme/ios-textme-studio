@@ -6,27 +6,19 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		mhhXgRqXlQrtCHQa4tcIuDuwpQg=
+		nlBqnYw5LJr8TKu9JXVRnSsBPJs=
 		</data>
-		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib</key>
 		<data>
-		jvGsysClSaYZtWJsUdbEYWulmfY=
-		</data>
-		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/runtime.nib</key>
-		<data>
-		70pmd7BKJ8UZ3Gonqykk8vxmg2k=
+		/K784XamSGkOBV+D/xWBkfmYJiY=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
 		<data>
 		7janjv0sURsp99vEcJ5LiWf+J9A=
 		</data>
-		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib</key>
 		<data>
-		ZNU6GGFuzJTUNN5Vi2oUMsQ36TY=
-		</data>
-		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/runtime.nib</key>
-		<data>
-		KQv7uTPgTOJ29QiwVEaaXoperUc=
+		l7jryRWI4/9u6tpUb9iKRvZ1N20=
 		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
@@ -38,31 +30,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iH62WteivIEN6KHXyzc0AtSnivk=
+		EL/P0S6oNInwyacV6Xf6cOgTSDY=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		fux6w4c4Jjr6AzaRSt6KVH4CAtQ=
+		aRDFH5XlDpKdWr03DQa660jWkLQ=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		VrpF9e9xCHgADcE3YyI26gddWOo=
+		l2N9mTRrv07RETR2XV/+NcJHFgk=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QmkR6Eao2i7lGSpq6rlvcKnf0rU=
+		aCOZOJ5V9E+ZBQ2Ess82A8C7h8o=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		fux6w4c4Jjr6AzaRSt6KVH4CAtQ=
+		aRDFH5XlDpKdWr03DQa660jWkLQ=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		VrpF9e9xCHgADcE3YyI26gddWOo=
+		l2N9mTRrv07RETR2XV/+NcJHFgk=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		QmkR6Eao2i7lGSpq6rlvcKnf0rU=
+		aCOZOJ5V9E+ZBQ2Ess82A8C7h8o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,21 +87,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cccd31zViVeNw8iQzJEhMki8DV4c/WcZ8eAN2SFJ5Xc=
+			dquyon+gXg7h1KXcAn+cu//GIsIE8BGpiSPLbdHKatw=
 			</data>
 		</dict>
-		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQmoPo3pwIqArFiOZXMbs4RpTx+8vYUKfdo4Jmqr6Ww=
-			</data>
-		</dict>
-		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZJNxELM7xVOjo8ORzKN26F93B1y5qqbqpysPtw0Oack=
+			6mkE7l3Q4tlLNZm4I4wEk8mmNaUmHaZNURVGsuFgziA=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
@@ -119,18 +104,11 @@
 			y/6/3bn2DpxUWlLg4jXQ/8XU1acpE2fpRSSEoCVrh1I=
 			</data>
 		</dict>
-		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HZBOXMwGq6cqTgdS7RWJ6SPtRPHB9WWsW1w4NlbLATw=
-			</data>
-		</dict>
-		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			v67u8HkYiqSp7aO//tCOeL0VgRFJNQ00S+w2cnc5Opk=
+			ZHf8+Wq7H7IqbsgfVnfz2M1oNtcx2p8x/2XkWDlR84A=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
@@ -151,42 +129,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JzK3stLG1KpPkXQb1l92MQ5l8raqUI51mpYy+tqe81Q=
+			O7QLXVAWKtXcmLBQnsaNm897lNaVCyN/WHF9SeX1UGc=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8+f/QoZwWWJ6QS3z6gMt0r0HJZBwzWB/zVd0V4cC+TM=
+			/wEz2tFvFtQ51NNJtoiTt8taB7JMs6lmFQj/UYh04mM=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			taYs1+2WJOKdKi+xg9wpocmuNl9i4NYlzS2rfuipqmg=
+			kkvWEEMLANFkGPBmNAVxmoJaxYmwtr1ZgjrAN3xIklg=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JzK3stLG1KpPkXQb1l92MQ5l8raqUI51mpYy+tqe81Q=
+			O7QLXVAWKtXcmLBQnsaNm897lNaVCyN/WHF9SeX1UGc=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8+f/QoZwWWJ6QS3z6gMt0r0HJZBwzWB/zVd0V4cC+TM=
+			/wEz2tFvFtQ51NNJtoiTt8taB7JMs6lmFQj/UYh04mM=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			taYs1+2WJOKdKi+xg9wpocmuNl9i4NYlzS2rfuipqmg=
+			kkvWEEMLANFkGPBmNAVxmoJaxYmwtr1ZgjrAN3xIklg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
