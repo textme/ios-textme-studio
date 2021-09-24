@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		nlBqnYw5LJr8TKu9JXVRnSsBPJs=
+		4Ec1ZDu+BvVR63n/V44C5t8tmyM=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib</key>
 		<data>
-		gL5NYIfi4+lb+6LYL2hjC6+lK4E=
+		kZNuzLMwsPsSBRbzMuFxMzpo444=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib</key>
 		<data>
-		iazKhI5Q1RYQ6axlFfcbRk5FpY8=
+		RZraJXwwwjegtaM6/6W8o/nLRvI=
 		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
-		/0F1zakgb19Aj9jT1R+qUtNSgTA=
+		lMvPf1Ktud4KuTx+ZHCm+cvR/gY=
 		</data>
 		<key>Headers/TextMeStudioLib.h</key>
 		<data>
@@ -30,31 +30,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		M2qSfXKPs4kyUe+6FDR33CV2UHE=
+		iKA7keIuxoPr0Caiw1d9ZFkGfdA=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		aRDFH5XlDpKdWr03DQa660jWkLQ=
+		+EoT9tXMm5VQs294+9uvVntZ3rQ=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		gN6FpwAeZ9tfWfXkkvwy3mutTgI=
+		97Dfa1WB2C+wLUsJl/ky7nNf9TI=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		byzNig0vqd+pN6f4HRS+GACA7bU=
+		ftvDovHJrW2qRJIOFTn2isNRl5Q=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		aRDFH5XlDpKdWr03DQa660jWkLQ=
+		+EoT9tXMm5VQs294+9uvVntZ3rQ=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		gN6FpwAeZ9tfWfXkkvwy3mutTgI=
+		97Dfa1WB2C+wLUsJl/ky7nNf9TI=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		byzNig0vqd+pN6f4HRS+GACA7bU=
+		ftvDovHJrW2qRJIOFTn2isNRl5Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,14 +87,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dquyon+gXg7h1KXcAn+cu//GIsIE8BGpiSPLbdHKatw=
+			W+oc+CyBE1Qk0bIRyze38UQA7LFcTlN2SGpwMrSNd/s=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mSSRTbTpSr78f/KYA9jCMasrKg75aRQOSgV9Q80RGhg=
+			dMqWQtyLhgtx8w/aWZJgHaiWlyw379RvTcaivDSDuNQ=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
@@ -108,14 +108,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pOGSPmAp8eh7njmUSq418xVaP8r5AP1E7N6y7HBZDpA=
+			OsurYm1RF5El0e4K9XBilACmvQsTIc9C8aDxvX7FpYo=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MUvb3Bzq//Vvl7eYP/gXnPw/QwkuLIbjQLnzCL65kko=
+			I82UiaUCAO9u9+/BIuX75HdOpNJKixdak/LNzYf2ZIw=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib.h</key>
@@ -129,42 +129,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O7QLXVAWKtXcmLBQnsaNm897lNaVCyN/WHF9SeX1UGc=
+			2/NKuaYgJxmZWTTeu3Jq+XpVIJS6ctWekuGyc7wWbMc=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFbbkPAM/JSt/p2l8aW4LkRaNooTCD9ASmTfpNX0bXo=
+			zneavBYO5CTMZTai77232WhekX43qkOdSKQb7uXYdN4=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i3yghNqCOYmzCsokLX1D7gIu025KmpHJ8a+Zqbhhetg=
+			Yj5+h5D4dsgrv4X5AnxWpwL+NpavgTKc9HHv7JaoxWM=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O7QLXVAWKtXcmLBQnsaNm897lNaVCyN/WHF9SeX1UGc=
+			2/NKuaYgJxmZWTTeu3Jq+XpVIJS6ctWekuGyc7wWbMc=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFbbkPAM/JSt/p2l8aW4LkRaNooTCD9ASmTfpNX0bXo=
+			zneavBYO5CTMZTai77232WhekX43qkOdSKQb7uXYdN4=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i3yghNqCOYmzCsokLX1D7gIu025KmpHJ8a+Zqbhhetg=
+			Yj5+h5D4dsgrv4X5AnxWpwL+NpavgTKc9HHv7JaoxWM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

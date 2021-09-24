@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		nlBqnYw5LJr8TKu9JXVRnSsBPJs=
+		0DBQOmske0zi2Kj/Tay4ikcWYQg=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib</key>
 		<data>
-		64l1YdHgicnQquP6OcTI1IgAzOo=
+		kZNuzLMwsPsSBRbzMuFxMzpo444=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Ssj-LF-PDW-view-y1Q-rK-fHE.nib</key>
 		<data>
-		c5deAZMWpcmMh7qxa0P6+8j4tNc=
+		RZraJXwwwjegtaM6/6W8o/nLRvI=
 		</data>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<data>
-		/0F1zakgb19Aj9jT1R+qUtNSgTA=
+		lMvPf1Ktud4KuTx+ZHCm+cvR/gY=
 		</data>
 		<key>Headers/TextMeStudioLib.h</key>
 		<data>
@@ -30,31 +30,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OVRsb9GzCwCNSniyVRnqv5+fAG0=
+		k5C527sCQe8mu+tR9ovNzh1BoY0=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		GzIlOiQ23mmgEna5uNjpswsGpcs=
+		TButfXX4AqFPZ3wyPp+V28CN5V8=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		I07Tw50eoXq5FWfTsEFcc9NCjIA=
+		m2QUYPSjWLdg/LOmGX/7Pri6t+I=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fhh3B37thT9ZsqVkCvQbk++uTLw=
+		luazP4wif6Dq9AmPFla8O7CcnZk=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		GzIlOiQ23mmgEna5uNjpswsGpcs=
+		TButfXX4AqFPZ3wyPp+V28CN5V8=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		I07Tw50eoXq5FWfTsEFcc9NCjIA=
+		m2QUYPSjWLdg/LOmGX/7Pri6t+I=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		fhh3B37thT9ZsqVkCvQbk++uTLw=
+		luazP4wif6Dq9AmPFla8O7CcnZk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,14 +87,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dquyon+gXg7h1KXcAn+cu//GIsIE8BGpiSPLbdHKatw=
+			kDWG2O8IJ89E6zgMEKhfLu/5bWFGRLnN8YIVmJxjNQ8=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/InAppNavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			90hwgDUOgVLfljedHkOzaB/iMG+A4Rjo6qDczw3vxp4=
+			dMqWQtyLhgtx8w/aWZJgHaiWlyw379RvTcaivDSDuNQ=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
@@ -108,14 +108,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wIcv8YMfy0n0O6huuXC0PR2Li7K+OP860iJahkbfCX0=
+			OsurYm1RF5El0e4K9XBilACmvQsTIc9C8aDxvX7FpYo=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MUvb3Bzq//Vvl7eYP/gXnPw/QwkuLIbjQLnzCL65kko=
+			I82UiaUCAO9u9+/BIuX75HdOpNJKixdak/LNzYf2ZIw=
 			</data>
 		</dict>
 		<key>Headers/TextMeStudioLib.h</key>
@@ -129,42 +129,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0PG8BIQbtgW5KjJkTcmwCfSMRfrYxGBV7drXl/U5H+M=
+			g6bayfSwkuq+S65npsztCd/a7VUSZU0wUDFAt3zKy2w=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j3GmuLo3fKto9HCzIPb4bRugjCOxROOqfc2z5KimPb8=
+			BAgM8L4Vrtdz26HA2Oepehh+TdTuZPqjh7HmD6aN81o=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZoMcBCNeGeqKwOocXiZwveyPNXZZTgCI8P/1QeZMi+Y=
+			N9m0W1uwUqZvY+L8e5u9xQAhHCsU0ZgjooodspZRp+Y=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0PG8BIQbtgW5KjJkTcmwCfSMRfrYxGBV7drXl/U5H+M=
+			g6bayfSwkuq+S65npsztCd/a7VUSZU0wUDFAt3zKy2w=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j3GmuLo3fKto9HCzIPb4bRugjCOxROOqfc2z5KimPb8=
+			BAgM8L4Vrtdz26HA2Oepehh+TdTuZPqjh7HmD6aN81o=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZoMcBCNeGeqKwOocXiZwveyPNXZZTgCI8P/1QeZMi+Y=
+			N9m0W1uwUqZvY+L8e5u9xQAhHCsU0ZgjooodspZRp+Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

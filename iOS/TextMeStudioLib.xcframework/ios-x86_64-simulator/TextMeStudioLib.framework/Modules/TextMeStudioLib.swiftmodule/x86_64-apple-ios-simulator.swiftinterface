@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
+// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
 // swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name TextMeStudioLib
 import AdSupport
 import AppTrackingTransparency
@@ -11,6 +11,7 @@ import StoreKit
 import Swift
 @_exported import TextMeStudioLib
 import UIKit
+import _Concurrency
 @objc public protocol TMSInAppServiceDelegate {
   @objc optional func inAppServiceLoading()
   @objc optional func inAppServiceLoaded()
@@ -26,8 +27,8 @@ import UIKit
   @objc func productInfo(productIdentifier: Swift.String) -> [Swift.String : Any]?
   @objc func hasHactiveSubscription(force: Swift.Bool) -> Swift.Bool
   @objc func hasHactiveSubscription() -> Swift.Bool
-  @objc func purchase(product: [Swift.String : Swift.AnyObject], completion: @escaping (Swift.Error?) -> Swift.Void)
-  @objc func restorePurchases(completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc func purchase(product: [Swift.String : Swift.AnyObject], completion: @escaping (_ error: Swift.Error?) -> Swift.Void)
+  @objc func restorePurchases(completion: @escaping (_ error: Swift.Error?) -> Swift.Void)
   @objc func requestProducts()
   @objc weak var delegate: TextMeStudioLib.TMSInAppServiceDelegate? { get set }
 }
@@ -47,7 +48,7 @@ public enum ApplicationThemeColorName : Swift.String {
     get
   }
 }
-extension UIColor {
+extension UIKit.UIColor {
   public static func UIColorFromRGB(_ rgbValue: Swift.UInt32) -> UIKit.UIColor
   public static func fromApplicationTheme(name: TextMeStudioLib.ApplicationThemeColorName) -> UIKit.UIColor
 }
@@ -66,7 +67,7 @@ public typealias GADBannerAdLoadCompletionHandler = (GoogleMobileAds.GADBannerVi
   public typealias DictionaryType = Swift.Dictionary<Swift.String, Any>
   @objc deinit
 }
-extension RemoteConfig : Swift.Collection {
+extension TextMeStudioLib.RemoteConfig : Swift.Collection {
   public typealias Index = TextMeStudioLib.RemoteConfig.DictionaryType.Index
   public typealias Element = TextMeStudioLib.RemoteConfig.DictionaryType.Element
   public var startIndex: TextMeStudioLib.RemoteConfig.Index {
@@ -87,7 +88,7 @@ extension RemoteConfig : Swift.Collection {
   public typealias Iterator = Swift.IndexingIterator<TextMeStudioLib.RemoteConfig>
   public typealias SubSequence = Swift.Slice<TextMeStudioLib.RemoteConfig>
 }
-extension RemoteConfig {
+extension TextMeStudioLib.RemoteConfig {
   public var privacyPolicyURL: Foundation.URL? {
     get
   }
@@ -98,7 +99,7 @@ extension RemoteConfig {
 }
 public struct EventLoggerService {
 }
-extension NSNotification.Name {
+extension Foundation.NSNotification.Name {
   public static let appConfigDidFetch: Foundation.Notification.Name
 }
 @_hasMissingDesignatedInitializers public class TextMeStudio : TextMeStudioLib.TextMeStudioProtocol {
@@ -112,7 +113,7 @@ extension NSNotification.Name {
   public func initialize(token sdkToken: Swift.String, completion: @escaping (Swift.Result<TextMeStudioLib.RemoteConfig, Swift.Error>) -> Swift.Void)
   @objc deinit
 }
-extension TextMeStudio {
+extension TextMeStudioLib.TextMeStudio {
   public func log(_ eventName: Swift.String)
   public func log(_ eventName: Swift.String, values: [Swift.String : Any]?)
 }
@@ -124,8 +125,8 @@ public enum Model : Swift.String {
     get
   }
 }
-extension UIDevice {
-  public var type: TextMeStudioLib.Model {
+extension UIKit.UIDevice {
+  @_Concurrency.MainActor(unsafe) public var type: TextMeStudioLib.Model {
     get
   }
 }
