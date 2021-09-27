@@ -59,8 +59,11 @@ public typealias GADBannerAdLoadCompletionHandler = (GoogleMobileAds.GADBannerVi
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class TMSRouter {
-  public static func presentInApp(_ rootViewController: UIKit.UIViewController, animated: Swift.Bool, completion: (() -> Swift.Void)?)
-  public static func inAppViewController() -> UIKit.UIViewController?
+  public static var shared: TextMeStudioLib.TMSRouter {
+    get
+  }
+  public func presentInApp(_ rootViewController: UIKit.UIViewController, modalPresentationStyle: UIKit.UIModalPresentationStyle = .automatic, animated: Swift.Bool, completion: (() -> Swift.Void)? = nil)
+  public func inAppViewController() -> UIKit.UIViewController?
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class RemoteConfig {
