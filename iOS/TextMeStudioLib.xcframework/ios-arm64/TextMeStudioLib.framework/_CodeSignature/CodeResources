@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		4Ec1ZDu+BvVR63n/V44C5t8tmyM=
+		0DBQOmske0zi2Kj/Tay4ikcWYQg=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		k5Ht/VvWcJ9J+rn22g4nH5fXHNY=
+		Q8l/aAUVPWQ/MN2LaBx9Zk6+j0g=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ot4+pFT058JGxwMJXoy9nCGqyIA=
+		l2qZx42WlcZsbETeFELIEyZprLA=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ot4+pFT058JGxwMJXoy9nCGqyIA=
+		l2qZx42WlcZsbETeFELIEyZprLA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W+oc+CyBE1Qk0bIRyze38UQA7LFcTlN2SGpwMrSNd/s=
+			kDWG2O8IJ89E6zgMEKhfLu/5bWFGRLnN8YIVmJxjNQ8=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
@@ -143,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D71AnTlPZAN8gpSL6VpeIIzf4wQG2C2FkVQ1uCRF3Us=
+			JeWDGseOYp9b2XsFBD4ospcb3vxoWfB5zmdeMDajK7o=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/arm64.swiftdoc</key>
@@ -164,7 +164,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D71AnTlPZAN8gpSL6VpeIIzf4wQG2C2FkVQ1uCRF3Us=
+			JeWDGseOYp9b2XsFBD4ospcb3vxoWfB5zmdeMDajK7o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
