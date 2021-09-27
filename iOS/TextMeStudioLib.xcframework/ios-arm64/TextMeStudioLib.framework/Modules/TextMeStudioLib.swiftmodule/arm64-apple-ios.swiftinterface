@@ -142,7 +142,8 @@ public protocol TextMeStudioProtocol {
   func log(_ eventName: Swift.String, values: [Swift.String : Any]?)
 }
 extension Foundation.NSNotification.Name {
-  public static let TMSViewDidDismiss: Foundation.NSNotification.Name
+  public static let TMSViewDidDisappear: Foundation.NSNotification.Name
+  public static let TMSViewWillDisappear: Foundation.NSNotification.Name
 }
 extension TextMeStudioLib.ApplicationThemeColorName : Swift.Equatable {}
 extension TextMeStudioLib.ApplicationThemeColorName : Swift.Hashable {}
