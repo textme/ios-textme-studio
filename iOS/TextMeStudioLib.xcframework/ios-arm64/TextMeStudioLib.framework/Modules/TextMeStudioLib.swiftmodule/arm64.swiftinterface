@@ -34,15 +34,16 @@ import _Concurrency
 }
 public enum ApplicationThemeColorName : Swift.String {
   public typealias RawValue = Swift.String
+  case actionText
+  case actionBackground
+  case text
   case background
   case border
-  case darkMain
-  case intermediateBackground
-  case intermediateDarkMain
-  case lightMain
-  case main
+  case shadow
   case negation
-  case specialTableHeader
+  case tableHeader
+  case promotionText
+  case link
   public init?(rawValue: Swift.String)
   public var rawValue: Swift.String {
     get
