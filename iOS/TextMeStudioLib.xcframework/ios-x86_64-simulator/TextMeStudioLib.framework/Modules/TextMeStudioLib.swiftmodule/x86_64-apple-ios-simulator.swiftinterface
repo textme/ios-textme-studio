@@ -110,7 +110,7 @@ extension Foundation.NSNotification.Name {
   public static var shared: TextMeStudioLib.TextMeStudioProtocol {
     get
   }
-  public var inApp: TextMeStudioLib.TMSInAppServiceProtocol?
+  public var inApp: TextMeStudioLib.TMSInAppServiceProtocol
   public var remoteConfig: TextMeStudioLib.RemoteConfig {
     get
   }
@@ -136,7 +136,7 @@ extension UIKit.UIDevice {
 }
 public protocol TextMeStudioProtocol {
   static var shared: TextMeStudioLib.TextMeStudioProtocol { get }
-  var inApp: TextMeStudioLib.TMSInAppServiceProtocol? { get }
+  var inApp: TextMeStudioLib.TMSInAppServiceProtocol { get }
   var remoteConfig: TextMeStudioLib.RemoteConfig { get }
   func initialize(token sdkToken: Swift.String, completion: @escaping (Swift.Result<TextMeStudioLib.RemoteConfig, Swift.Error>) -> Swift.Void)
   func log(_ eventName: Swift.String)
