@@ -95,7 +95,7 @@ extension TextMeStudioLib.RemoteConfig : Swift.Collection {
 extension TextMeStudioLib.RemoteConfig {
   public enum AdUnit : Swift.String {
     case banner
-    case fullScreen
+    case interstitial
     public init?(rawValue: Swift.String)
     public typealias RawValue = Swift.String
     public var rawValue: Swift.String {

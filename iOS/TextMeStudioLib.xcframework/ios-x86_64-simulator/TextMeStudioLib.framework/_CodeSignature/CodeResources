@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/aLhV9+C2VFrqSi1vBgYKdF1vSA=
+		0q2xSh5+rpiWUFVWQ6cjsIVGtrk=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Z+Y5huYJruHUQfcvNes9SBQmcDQ=
+		avKEHUnvKySJI257iYL8HG7Lni0=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+oGcUaKcUhVRQDjDlH25bcxg3OI=
+		3oXdRX3fZ8rv98GK+z/SFfZu5+E=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		Z+Y5huYJruHUQfcvNes9SBQmcDQ=
+		avKEHUnvKySJI257iYL8HG7Lni0=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		+oGcUaKcUhVRQDjDlH25bcxg3OI=
+		3oXdRX3fZ8rv98GK+z/SFfZu5+E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -136,14 +136,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			arbxn8IAJScsY8N572ynPgHmBA512uf7NtevIL6KiI8=
+			vigzNovHW+UaXPVMXSdGl21KEVU4kPX2PGha0iLtpDE=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zzccPHvwFJjDo8fJKjlFZWz4SswTXbUlFZZh3wxLNdA=
+			LjibzCaR7XDCzMU9771kauib06TFFlrNd9KOs9flt7Y=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftdoc</key>
@@ -157,14 +157,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			arbxn8IAJScsY8N572ynPgHmBA512uf7NtevIL6KiI8=
+			vigzNovHW+UaXPVMXSdGl21KEVU4kPX2PGha0iLtpDE=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zzccPHvwFJjDo8fJKjlFZWz4SswTXbUlFZZh3wxLNdA=
+			LjibzCaR7XDCzMU9771kauib06TFFlrNd9KOs9flt7Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
