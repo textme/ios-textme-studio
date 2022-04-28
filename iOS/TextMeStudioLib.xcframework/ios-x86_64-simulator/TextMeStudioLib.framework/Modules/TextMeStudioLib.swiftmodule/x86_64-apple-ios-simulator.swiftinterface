@@ -119,6 +119,9 @@ extension Foundation.NSNotification.Name {
   public var remoteConfig: TextMeStudioLib.RemoteConfig {
     get
   }
+  public var initialized: Swift.Bool {
+    get
+  }
   public func initialize(token sdkToken: Swift.String, completion: @escaping (Swift.Result<TextMeStudioLib.RemoteConfig, Swift.Error>) -> Swift.Void)
   @objc deinit
 }
@@ -143,6 +146,7 @@ public protocol TextMeStudioProtocol {
   static var shared: TextMeStudioLib.TextMeStudioProtocol { get }
   var inApp: TextMeStudioLib.TMSInAppServiceProtocol { get }
   var remoteConfig: TextMeStudioLib.RemoteConfig { get }
+  var initialized: Swift.Bool { get }
   func initialize(token sdkToken: Swift.String, completion: @escaping (Swift.Result<TextMeStudioLib.RemoteConfig, Swift.Error>) -> Swift.Void)
   func log(_ eventName: Swift.String)
   func log(_ eventName: Swift.String, values: [Swift.String : Any]?)

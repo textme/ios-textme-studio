@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		PsKaWPfUKtXE8i8Z4gO7Ssjbpvs=
+		BrLjjkA+TLcHU+k6hsH8G7/FP7I=
 		</data>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JMsEkpOIxwYL90Wbpk1fIXnj7G4=
+		FWQRXo1WiB94g4hI/dCOBIy8qXg=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		O7dkTBDylQzOyuqCoc0RsQSaXyg=
+		O6bmqi3hEpTuxVB1lQiQ+30jgi0=
 		</data>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		m7hZvdaWoP7Sa1OvNIzChDchs38=
+		2gql2h2sL8sAcntsVJUs3Ogs4QI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gcjTE6mvTJ7TXhPb7Azc9HFvXsZvM2Yg4O0z097vv4c=
+			TT+/wccVJr0CM2U4o/AtVHte5RNULYW5VXAlpI/JesE=
 			</data>
 		</dict>
 		<key>Base.lproj/InApp.storyboardc/Info.plist</key>
@@ -124,14 +124,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WEEwjpA2on10jenPdBqfRexgW0qlkf75whvRbnjlSgY=
+			DtqblWLnDFszN40snXbq4wehHSZLS9BW17WsVz/Ukjc=
 			</data>
 		</dict>
 		<key>Modules/TextMeStudioLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wjs7ZZYCMEA8Zq9ttldMombgRVewzVnRFge+JhiU2PY=
+			HL51V4u3rzhPA+YBix4cwTKZfcThZUR+KSO5yRQohXg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
